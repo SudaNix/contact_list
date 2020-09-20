@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ContactList</string>
+    <string name="contact_list">US Senators</string>
+    <string name="contact_details">Contact Details</string>
+    <string name="role">Role</string>
+    <string name="team">Team</string>
+    <string name="address">Address</string>
+    <string name="office">Office</string>
+    <string name="name">Name</string>
+    <string name="birthday">Birthday</string>
+    <string name="enddate">End date</string>
+    <string name="gender">Gender</string>
+    <string name="sortName">Sort Name</string>
+    <string name="website">Website</string>
+</resources>
